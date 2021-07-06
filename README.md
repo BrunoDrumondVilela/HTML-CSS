@@ -1,3 +1,3 @@
-# Reposit01
-Um simples teste de compatibilidade de mídias para diferentes navegadores.
-A simple compatibility test of medias in browsers of different types.
+# HTML-CSS
+Sites básicos para testes e verificações de compatibilidade.
+Basics sites for testing and compatibility checks.
