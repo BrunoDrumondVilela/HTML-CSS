@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula 11:mídias</title>
+    <link rel="stylesheet" href="/HTML5-CSS3/estilo2.css">
+    <link rel="shortcut icon" href="/HTML5-CSS3/infinity.ico" type="image/x-icon">
+</head>
+<body>
+    <center>
+        <!-- Presentation of start content: -->
+        <em>
+            <h1>Trabalhando com  diversos tamanhos de imagens:</h1>
+            <strong>
+                <p>Tente mudar o tamanho da janela para visualizar outros tamanhos de imagem.</p>
+            </strong>
+        </em>
+        <picture>
+            <source media="(max-width:750px )" srcset="/HTML5-CSS3/Imagens/imagem-p.png" type="image/png">
+            <source media="(max-width: 1050px )" srcset="/HTML5-CSS3/Imagens/imagem-m.png" type="image/png">
+            <img src="/HTML5-CSS3/Imagens/tigres.jpg" alt="imagem grande">
+        </picture>
+        <!-- Its important to remember that many of browsers don't have compatibility with all the media types, so use different types of files. -->
+        <em>
+            <!-- Presentation of audio content: -->
+            <h1>Carregando arquivos de áudio:</h1>
+            <strong>
+                <p>Dê play para ouvir a música:</p>
+            </strong>
+        </em>
+        <audio preload="metadata" controls>
+            <source src = " /HTML5-CSS3/musicas/audio1.mp3" type = "audio/mpeg">
+            <source src = "/HTML5-CSS3/musicas/audio1.ogg" type = "audio/ogg">
+            <source src = "/HTML5-CSS3/musicas/audio1.wav" type = "audio/wav">
+        </audio>
+        <!-- Presentation of video content: -->
+        <em>
+            <h1>Carregando arquivos de vídeo:</h1>
+            <!--LOCAL HOST:-->
+            <p>Vamos acrescentar vídeos ao site:</p>
+        </em>
+        <!-- The bad thing of 'local host', is that the network flow can be extremely heavy and expensive to your client -->
+        <video width="700"  controls poster="/HTML5-CSS3/Imagens/thumblr-tigres.jpg">
+            <source src = "/HTML5-CSS3/videos/tigres.mp4" type = "video/mp4">
+            <source src = "/HTML5-CSS3/videos/tigres.webm" type = "video/webm">
+            <source src = "/HTML5-CSS3/videos/tigres.ogv" type = "video/ogg">
+        </video>
+        <!-- Other manner of hosting your videos is streaming directly from the youtube platform with the 'incorporation' method -->
+        <h1>Carregando vídeos do YouTube:</h1>
+        <p>É possível carregar vídeos direto do YouTube para que os seus dados sejam hospedados no servidor do próprio YouTube, o que economiza no fluxo de rede.</p>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/mvjjfrFg8pM" title="YouTube video player" frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <footer>&copy;byDrumond</footer>
+    </center>
+</body>
+</html>
