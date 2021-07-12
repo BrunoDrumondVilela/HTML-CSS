@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário:</title>
+    <link rel="shortcut icon" href="/HTML5-CSS3/infinity.ico" type="image/x-icon">
+    <link rel="stylesheet" href="/HTML5-CSS3/estilo2.css" type="text/css" media="">
+</head>
+<body>
+    <div>
+        <h1 id="titulo">Formulário de Cadastro:</h1>
+        <p id="subtitulo">Preencha corretamente os campos que seguem.</p>
+        <br>
+    </div>
+    <form>
+        <fieldset class="grupo"> 
+            <div>
+                <label for="nome">Nome:</label><br>
+                <input type="text" name="nome" id="nome" required>
+            </div>
+            <div>
+                <label for="sobrenome">Sobrenome:</label><br>
+                <input type="text" name="Sobrenome" id="sobrenome" required>
+            </div>
+        </fieldset>
+        <div>
+            <label for="email">E-mail:</label><br>
+            <input type="email" name="email" id="email" required>
+        </div>
+        <div>
+            <label>Lado de desenvolvimento:</label><br>
+            <label>
+                <input type= "radio" name= "devweb" id= "frontend" checked>Front-end <br>
+            </label>
+            <label>
+                <input type="radio" name="devweb" id="backend">Back-end <br>
+            </label>
+            <label>
+                <input type="radio" name= "devweb" id= "fullstack">Fullstack <br>
+            </label>
+        </div>
+            <div class="campo">
+                <label for="senioridade">Senioridade:</label>
+                <select id="senioridade">
+                    <option selected disabled value="">Selecione</option>
+                    <option>Júnior</option>
+                    <option>Pleno</option>
+                    <option>Sênior</option>
+                </select>
+            </div>
+            <fieldset class="grupo">
+                <div>
+                    <label>Selecione as tecnologias que utiliza atualmente:</label><br><br>
+                    <input type="checkbox" id="tecnologia1" name="tecnologia1" value="HTML">
+                    <label for="tecnologia1">HTML</label>
+                    <input type="checkbox" name="tecnologia2" id="tecnologia2"  value="CSS">
+                    <label for="tecnologia2">CSS</label>
+                    <input type="checkbox" name="tecnologia3" id="tecnologia3" value="Javascript">
+                    <label for="tecnologia3">Javascript</label>
+                    <input type="checkbox" name="tecnologia4" id="tecnologia4" value="Python">
+                    <label for="tecnologia4">Python</label>
+                    <input type="checkbox" name="tecnologia5" id="tecnologia5" value="Java">
+                    <label for="tecnologia5">Java</label>
+                    <input type="checkbox" name="tecnologia6" id="tecnologia6" value="C#">
+                    <label for="tecnologia6">C#</label>
+                </div>
+            </fieldset>
+            <div>
+                <br>
+                <label>Conte um pouco da sua experiência como desenvolvedor:</label><br>
+                <textarea name="xp" id="xp" rows="6" style="width: 26em" ></textarea>
+            </div>
+            <button class="botao" type="submit">Concluído</button>
+    </form>
+</body>
+</html>
