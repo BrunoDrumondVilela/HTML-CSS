@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SpaceToday</title>
+    <link rel="stylesheet" href="/HTML5-CSS3/spacetoday.css">
+    <link rel="shortcut icon" href="/HTML5-CSS3/Imagens/rocket.ico" type="image/x-icon">
+    <div id="divisao1">
+        <strong>
+            <img src="/HTML5-CSS3/Imagens/menu.png" alt="menu" style="width: 2em; height: 1em; padding-top: 0.9em;">Menu
+        </strong>
+    </div>
+</head>
+<body>
+    <img id ="logo" src="/HTML5-CSS3/Imagens/logo.png" alt="LOGO">
+    <h2>Bem vindo(a) ao Space Today, seu site de conhecimentos de astronomia e exploração espacial!</h2>
+    <h3>A História da Exploração Espacial:</h3>
+    <p id="hist"> 
+        <img id="galaxy" src="/HTML5-CSS3/Imagens/galaxia.png" alt="galaxia" width="500" height="300" align="left">
+        <blockquote>No ano de 1687, Isaac Newton publicou sua obra Princípios Matemáticos da Filosofia Natural, dando início à compreensão da realidade física através de leis físicas e matemáticas.
+        Nela, estão descritas praticamente todos os conhecimentos que Newton tinha sobre física, mecânica, astronomia etc.
+        Com a publicação deste livro, surgiu a remota possibilidade da exploração espacial.
+        Em 1865, o escritor francês Júlio Verne publicou o livro Da Terra à Lua, descrevendo uma missão tripulada no satélite natural da Terra, cujo transporte seria feito pelo canhão Columbia.
+        Essa obra, mesmo sendo uma ficção científica, possui muitos detalhes técnicos que, inclusive, revelam semelhanças com a missão Apollo 11.
+        No ano de 1889, Vincent van Gogh pintou uma de suas mais aclamadas obras, A Noite Estrelada, em que se pode perceber a admiração do artista por astros, estrelas e corpos celestes.
+        Na França, no ano de 1902, Georges Méliès criou um dos primeiros filmes de ficção científica, em que descrevia uma incrível viagem à Lua, chamado Le voyage dans la Lune.
+        Em 1903, o físico russo Konstantin Tsiolkovsky publicou teorias possíveis de serem aplicadas para colocar foguetes em órbita, além de realizar cálculos das velocidades necessárias para colocar satélites em órbita.
+        Alguns anos depois, em 1914, o inventor estadunidense Robert Goddard patenteou o primeiro projeto de um foguete de combustão.
+        Ainda no século XVI, a observação dos astros era frequentemente feita a olho nu, e quando era feita com algum instrumento, ocorria por meio de instrumentos relativamente pouco eficientes.
+        Posteriormente, no século XVII, Hans Lippershey, fabricante de lentes dos Países Baixos, inventou a luneta.
+        Algum tempo depois, Galileo Galilei construiu sua própria luneta astronômica que revolucionou a astronomia.</blockquote>
+    </p><br>
+    <div id="divisao2">
+        <source sizes="" srcset="">
+        <h3>Corrida Espacial:</h3>
+        <p>
+                <img id ="astronauta" src="/HTML5-CSS3/Imagens/astronauta.png" alt="astronauta" width="380" height="210" align = "right">
+                <blockquote> 
+                    Diversos animais foram usados nos primórdios da exploração espacial para testar o efeito da radiação, da ausência de gravidade e das condições do espaço exterior sobre os organismos vivos (ver: Animais no espaço). Antes da cadela Kundriavka, foram usadas pela URSS em voos sub-orbitais as cadelas Albina e Tsyganka. Pelo lado dos Estados Unidos, os primeiros primatas foram Albert 1 e Albert 2, que morreram em 1949 na ponta de foguetes V-2 capturados na Alemanha. Sputnik 5, a última missão Sputnik, foi lançada ao espaço em 19 de agosto de 1960 com os cachorros Belka e Strelka, quarenta camundongos, dois ratos e diversas plantas. As missões Korabl-Sputnik ainda levaram os cães Pchelka, Mushka, Chernuschka e Zvezdochka. O primeiro hominídeo no espaço foi o chimpanzé Ram lançado em um voo suborbital em 31 de janeiro de 1961 a bordo de uma nave Mercury em preparação ao primeiro voo dos Estados Unidos com humanos.
+                    Iuri Gagarin (1934-1968) foi o primeiro homem no espaço, em um voo orbital de 48 minutos, a bordo da nave Vostok 1. O voo de Gagarin ocorreu em 12 de Abril de 1961. Neste voo ele disse a famosa frase: "A Terra é azul". A primeira mulher no espaço foi a Russa Valentina Tereshkova, que em 16 de junho de 1963 deu 46 voltas ao redor da Terra a bordo da nave Vostok VI. O lançamento da Sputnik e a colocação do primeiro homem no espaço devem-se, em grande parte, ao talento do engenheiro soviético Sergei Korolev, o engenheiro-chefe do programa espacial soviético, que conseguiu convencer Nikita Khrushchov, na época o líder da URSS, a investir no programa espacial. Foi ele quem primeiro teve a ideia de levar (realmente) homens à Lua. 
+                </blockquote>
+        </p>  
+    </div>
+        <h3>Acidentes e Tragédias:</h3>
+    <p id="paragrafo">
+        Mesmo com toda a tecnologia e controle de qualidade, em um ambiente tão hostil como o espaço, e envolvendo máquinas tão complexas, é de se esperar que ocorram erros. Muitos acidentes ficaram para a história da exploração espacial. Alguns deles provocaram baixas entre os astronautas e cosmonautas. Em 24 de outubro de 1960, uma explosão na plataforma de lançamento matou dezenas de cientistas e técnicos da URSS.
+        No dia 23 de março de 1961 (poucos dias antes do voo pioneiro de Iuri Gagarin ao espaço), irrompe um incêndio no interior de uma cápsula Vostok. O cosmonauta que realizava treinamento a bordo da nave, Valentin Bondarenko, não tem tempo de escapar e sofre queimaduras graves, vindo a falecer num hospital poucas horas depois. Isso somente viria a ser admitido oficialmente pela URSS em 1985. Em 1966, a nave Gemini VIII ficou desgovernada no espaço, mas os astronautas conseguiram reassumir o controle da nave e regressar a Terra. Apesar de seus tripulantes (Neil Armstrong e David Scott) conseguirem retornar à Terra em segurança, sua missão não foi completada e eles pousaram no Mar da China, a milhares de quilômetros do local previsto.
+        Passado um ano, os astronautas Virgil "Gus" Ivan Grissom, Edward Higgins White II e Roger Bruce Chaffee, do Projeto Apollo, morreram no solo em um incêndio dentro da cabine de comando, no que ficou conhecido como "Apollo 1". Em abril de 1967, o cosmonauta Vladimir Komarov teve uma variedade de problemas técnicos com a nave Soyuz 1, e acabou morrendo no pouso, no acidente que atrasou o programa espacial soviético em 18 meses. Em 21 de fevereiro de 1969 um foguete do programa lunar soviético caiu, logo após o lançamento, sobre uma cidade matando 350 pessoas.
+        Em 1970, devido a um acidente grave, ocasionado por uma faísca de um curto circuito nos tanques ao serem agitados os gases criogênicos, procedimento padrão da Missão, a Apollo 13 ficou seriamente avariada em seu caminho em direção à Lua. Isto impossibilitou seu pouso na Lua e resultou em um retorno tenso e espetacular à Terra, com um mínimo de oxigênio remanescente, no mais conhecido acidente espacial da história. O episódio terminou, contudo, de forma satisfatória para os seus tripulantes. A frase que marcou o evento foi:<em> OK, Houston, we have a problem here </em>("Houston, nós temos um problema aqui").
+    </p>
+    <div id="divisao3">
+        <h3>National Aeronautics and Space Administration (<a href="https://www.nasa.gov/" target="_blank" rel="external">NASA</a>):</h3>
+        <p>
+        <img src="/HTML5-CSS3/Imagens/nasa.jpg" alt="NASA_logo" width="210" height="210" align = "left">
+        <h4> História:</h4>
+        <p><blockquote> 
+            Em 29 de julho de 1958 Eisenhower assinou o National Aeronautics and Space Act, instituindo a NASA. Quando iniciou suas operações em 1 de outubro de 1958, a NASA absorveu integralmente o antigo NACA, com todos os seus 8 mil funcionários, um orçamento anual de 100 milhões de dólares, três laboratórios de pesquisa principais (Langley Aeronautical Laboratory, Ames Aeronautical Laboratory e Lewis Flight Propulsion Laboratory) e duas instalações pequenas de teste.
+            Elementos da Army Ballistic Missile Agency, da qual fazia parte a equipe de Von Braun, e o Naval Research Laboratory, foram incorporados à NASA. Uma contribuição significativa para a entrada da NASA na corrida espacial com a União Soviética foi a tecnologia do programa alemão de foguetes V-2 (liderado por Von Braun), que por sua vez incorporou tecnologia de Robert Goddard. Programas de investigação da Força Aérea e muitos dos primeiros programas espaciais da ARPA também foram transferidos para a NASA. Em dezembro de 1958 a NASA obteve o controle do Jet Propulsion Laboratory, uma instalação operada pelo California Institute of Technology.</blockquote></p>
+        </p>
+        <h3>Novas Missões de Exploração à Marte:</h3>  
+        <p>
+            <blockquote> A <abbr title = "National Aeronautics and Space Administration">NASA</abbr> anunciou duas novas missões de exploração de Vênus, o planeta mais quente do sistema solar, na tentativa de entender melhor por que ele se tornou um lugar infernal quando seu vizinho Terra se tornou habitável.
+            Essas duas missões, chamadas Davinci + e Veritas, devem partir "no período de 2028-2030", informou a Agência Espacial dos Estados Unidos. "Elas permitirão que a comunidade científica estude um planeta que não visitamos há mais de 30 anos", disse o novo administrador da Nasa, Bill Nelson, durante o discurso anual para funcionários da agência.
+        </p>
+        <pre>
+    
+        </pre>
+    </div>
+    <footer>
+        <p>
+            Minhas Redes Sociais: <br>
+            <a href="https://github.com/BrunoDrumondVilela" rel="external" target="_blank"><img src="/HTML5-CSS3/Imagens/github.png" alt="github" width="65" height="40">GitHub</a>
+            <a href="https://www.linkedin.com/in/bruno-drumond-vilela-166562216/" target="_blank" rel="external"><img src="/HTML5-CSS3/Imagens/linkedin.png" alt="linkedin" width="50" height="25">LinkedIn</a>
+            <a href="https://www.instagram.com/_bruno.drumond_/" target="_blank" rel="external"><img src="/HTML5-CSS3/Imagens/instagram.png" alt="instagram" width="30" height="25">Instagram</a>
+            <p>&copy;byDrumond</p>
+        </p>
+    </footer>
+</body>
+</html>
