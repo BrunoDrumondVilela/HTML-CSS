@@ -1,0 +1,59 @@
+#spacetoday{
+    text-align: center;
+    color: rgb(197, 218, 12);
+    font-family: sans-serif;
+}
+#galaxy{
+    padding-left: 60px;
+}
+body {
+    background-color: #371A45;
+    color: white;
+    font-family: serif;
+    font-size: medium;
+}
+h2 {
+    font-family: monospace;
+    text-align: center;
+}
+#divisao1{
+    background-color: #59316d;
+    height: 30px;
+    text-align: right;
+    border-radius: 15px;
+    color: white;
+    padding-right: 10px;
+    padding-top: 1px;
+    padding-bottom: 20px;
+    
+}
+#divisao2{
+    background-color:white;
+    border-spacing: initial;
+    height: 300px;
+    color: black;
+    border-radius: 15px;
+}
+#divisao3{
+    background-color: white;
+    border-spacing: initial;
+    height: 395px;
+    color: rgb(0, 0, 0);
+    border-radius: 15px;
+}
+footer{
+    text-align: center;
+}
+#logo{
+    padding-left: 340px;
+}
+h3 {
+    padding-left: 50px;
+    font-family: serif;
+    font-size: large;
+    padding-top: 20px;
+}
+#paragrafo{
+    padding-left: 40px;
+    padding-right: 40px;
+}
