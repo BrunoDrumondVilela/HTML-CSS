@@ -7,6 +7,7 @@
     <title>SpaceToday</title>
     <link rel="stylesheet" href="/HTML5-CSS3/spacetoday.css">
     <link rel="shortcut icon" href="/HTML5-CSS3/Imagens/rocket.ico" type="image/x-icon">
+    <!--Cabeçalho do futuro menu-->
     <div id="divisao1">
         <strong>
             <img src="/HTML5-CSS3/Imagens/menu.png" alt="menu" style="width: 2em; height: 1em; padding-top: 0.9em;">Menu
@@ -14,7 +15,9 @@
     </div>
 </head>
 <body>
+    <!--Logo central do site-->
     <img id ="logo" src="/HTML5-CSS3/Imagens/logo.png" alt="LOGO">
+    <!--Introdução-->
     <h2>Bem vindo(a) ao Space Today, seu site de conhecimentos de astronomia e exploração espacial!</h2>
     <h3>A História da Exploração Espacial:</h3>
     <p id="hist"> 
@@ -33,7 +36,6 @@
         Algum tempo depois, Galileo Galilei construiu sua própria luneta astronômica que revolucionou a astronomia.</blockquote>
     </p><br>
     <div id="divisao2">
-        <source sizes="" srcset="">
         <h3>Corrida Espacial:</h3>
         <p>
                 <img id ="astronauta" src="/HTML5-CSS3/Imagens/astronauta.png" alt="astronauta" width="380" height="210" align = "right">
@@ -69,6 +71,7 @@
         </pre>
     </div>
     <footer>
+        <!--Links de redes sociais-->
         <p>
             Minhas Redes Sociais: <br>
             <a href="https://github.com/BrunoDrumondVilela" rel="external" target="_blank"><img src="/HTML5-CSS3/Imagens/github.png" alt="github" width="65" height="40">GitHub</a>
