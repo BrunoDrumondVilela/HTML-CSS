@@ -10,7 +10,7 @@
     <!--Cabeçalho do futuro menu-->
     <div id="divisao1">
         <strong>
-            <img src="/HTML5-CSS3/Imagens/menu.png" alt="menu" style="width: 2em; height: 1em; padding-top: 0.9em;">Menu
+            <P style="padding-left: 250px; padding-right: 490px;">ESTRELAS   PLANETAS  GALÁXIAS  MENU</P>
         </strong>
     </div>
 </head>
@@ -21,8 +21,8 @@
     <h2>Bem vindo(a) ao Space Today, seu site de conhecimentos de astronomia e exploração espacial!</h2>
     <h3>A História da Exploração Espacial:</h3>
     <p id="hist"> 
-        <img id="galaxy" src="/HTML5-CSS3/Imagens/galaxia.png" alt="galaxia" width="500" height="300" align="left">
-        <blockquote>No ano de 1687, Isaac Newton publicou sua obra Princípios Matemáticos da Filosofia Natural, dando início à compreensão da realidade física através de leis físicas e matemáticas.
+        <img id="galaxy" src="/HTML5-CSS3/Imagens/galaxia.png" alt="galaxia" width="450" height="320" align="left">
+        <blockquote style="text-align: left;">No ano de 1687, Isaac Newton publicou sua obra Princípios Matemáticos da Filosofia Natural, dando início à compreensão da realidade física através de leis físicas e matemáticas.
         Nela, estão descritas praticamente todos os conhecimentos que Newton tinha sobre física, mecânica, astronomia etc.
         Com a publicação deste livro, surgiu a remota possibilidade da exploração espacial.
         Em 1865, o escritor francês Júlio Verne publicou o livro Da Terra à Lua, descrevendo uma missão tripulada no satélite natural da Terra, cujo transporte seria feito pelo canhão Columbia.
@@ -32,8 +32,7 @@
         Em 1903, o físico russo Konstantin Tsiolkovsky publicou teorias possíveis de serem aplicadas para colocar foguetes em órbita, além de realizar cálculos das velocidades necessárias para colocar satélites em órbita.
         Alguns anos depois, em 1914, o inventor estadunidense Robert Goddard patenteou o primeiro projeto de um foguete de combustão.
         Ainda no século XVI, a observação dos astros era frequentemente feita a olho nu, e quando era feita com algum instrumento, ocorria por meio de instrumentos relativamente pouco eficientes.
-        Posteriormente, no século XVII, Hans Lippershey, fabricante de lentes dos Países Baixos, inventou a luneta.
-        Algum tempo depois, Galileo Galilei construiu sua própria luneta astronômica que revolucionou a astronomia.</blockquote>
+        Posteriormente, no século XVII, Hans Lippershey, fabricante de lentes dos Países Baixos, inventou a luneta.</blockquote>
     </p><br>
     <div id="divisao2">
         <h3>Corrida Espacial:</h3>
