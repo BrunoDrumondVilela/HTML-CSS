@@ -4,13 +4,13 @@
     font-family: sans-serif;
 }
 #galaxy{
-    padding-left: 60px;
+    text-align: right;
 }
 body {
     background-color: #371A45;
     color: white;
     font-family: serif;
-    font-size: medium;
+    font-size: large;
 }
 h2 {
     font-family: monospace;
@@ -22,24 +22,26 @@ h2 {
     text-align: right;
     border-radius: 15px;
     color: white;
-    padding-right: 10px;
-    padding-top: 1px;
-    padding-bottom: 20px;
-    
+    word-spacing: 1em;
+    box-shadow: 15px;
 }
 #divisao2{
     background-color:white;
     border-spacing: initial;
-    height: 300px;
-    color: black;
+    height: 355px;
+    color: rgba(0, 0, 0, 0.6);
     border-radius: 15px;
+    font-size: large;
+    box-shadow: 15px;
 }
 #divisao3{
     background-color: white;
     border-spacing: initial;
-    height: 395px;
-    color: rgb(0, 0, 0);
+    height: 465px;
+    color: rgb(0, 0, 0, 0.6);
     border-radius: 15px;
+    font-size: large;
+    box-shadow: 15px;
 }
 footer{
     text-align: center;
@@ -52,8 +54,11 @@ h3 {
     font-family: serif;
     font-size: large;
     padding-top: 20px;
+    letter-spacing: 0.5px;
 }
 #paragrafo{
     padding-left: 40px;
     padding-right: 40px;
+    padding-bottom: 30px;
+    margin-top: 30px;
 }
