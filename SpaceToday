@@ -21,7 +21,7 @@
     <h2>Bem vindo(a) ao Space Today, seu site de conhecimentos de astronomia e exploração espacial!</h2>
     <h3>A História da Exploração Espacial:</h3>
     <p id="hist"> 
-        <img id="galaxy" src="/HTML5-CSS3/Imagens/galaxia.png" alt="galaxia" width="450" height="320" align="left">
+        <img id="galaxy" src="/HTML5-CSS3/Imagens/galaxia.png" alt="galaxia" align="left">
         <blockquote style="text-align: left;">No ano de 1687, Isaac Newton publicou sua obra Princípios Matemáticos da Filosofia Natural, dando início à compreensão da realidade física através de leis físicas e matemáticas.
         Nela, estão descritas praticamente todos os conhecimentos que Newton tinha sobre física, mecânica, astronomia etc.
         Com a publicação deste livro, surgiu a remota possibilidade da exploração espacial.
