@@ -37,11 +37,11 @@
     <div id="divisao2">
         <h3>Corrida Espacial:</h3>
         <p>
-                <img id ="astronauta" src="/HTML5-CSS3/Imagens/astronauta.png" alt="astronauta" width="380" height="210" align = "right">
-                <blockquote> 
+            <img id ="astronauta" src="/HTML5-CSS3/Imagens/astronauta.png" alt="astronauta" width="380" height="210" align = "right">
+            <blockquote> 
                     Diversos animais foram usados nos primórdios da exploração espacial para testar o efeito da radiação, da ausência de gravidade e das condições do espaço exterior sobre os organismos vivos (ver: Animais no espaço). Antes da cadela Kundriavka, foram usadas pela URSS em voos sub-orbitais as cadelas Albina e Tsyganka. Pelo lado dos Estados Unidos, os primeiros primatas foram Albert 1 e Albert 2, que morreram em 1949 na ponta de foguetes V-2 capturados na Alemanha. Sputnik 5, a última missão Sputnik, foi lançada ao espaço em 19 de agosto de 1960 com os cachorros Belka e Strelka, quarenta camundongos, dois ratos e diversas plantas. As missões Korabl-Sputnik ainda levaram os cães Pchelka, Mushka, Chernuschka e Zvezdochka. O primeiro hominídeo no espaço foi o chimpanzé Ram lançado em um voo suborbital em 31 de janeiro de 1961 a bordo de uma nave Mercury em preparação ao primeiro voo dos Estados Unidos com humanos.
                     Iuri Gagarin (1934-1968) foi o primeiro homem no espaço, em um voo orbital de 48 minutos, a bordo da nave Vostok 1. O voo de Gagarin ocorreu em 12 de Abril de 1961. Neste voo ele disse a famosa frase: "A Terra é azul". A primeira mulher no espaço foi a Russa Valentina Tereshkova, que em 16 de junho de 1963 deu 46 voltas ao redor da Terra a bordo da nave Vostok VI. O lançamento da Sputnik e a colocação do primeiro homem no espaço devem-se, em grande parte, ao talento do engenheiro soviético Sergei Korolev, o engenheiro-chefe do programa espacial soviético, que conseguiu convencer Nikita Khrushchov, na época o líder da URSS, a investir no programa espacial. Foi ele quem primeiro teve a ideia de levar (realmente) homens à Lua. 
-                </blockquote>
+            </blockquote>
         </p>  
     </div>
         <h3>Acidentes e Tragédias:</h3>
